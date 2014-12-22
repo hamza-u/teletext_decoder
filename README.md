@@ -1,4 +1,4 @@
-# telxcc
+# telxcc [![Build Status](https://travis-ci.org/petrkutalek/telxcc.svg?branch=master)](https://travis-ci.org/petrkutalek/telxcc)
 
 telxcc is utility extracting teletext Closed Captions from Transport Stream binary files (TS & M2TS) into SubRip text files (SRT).
 
