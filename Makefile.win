@@ -1,5 +1,5 @@
 CC = gcc
-CCFLAGS = -std=gnu99 -O3 -Wall -pedantic
+CCFLAGS = -std=gnu99 -O3 -Wall -pedantic -D_WIN32_WINNT=0x0501
 LDFLAGS = -lcomctl32
 
 OBJS = telxcc.o telxcc.res
