@@ -63,6 +63,8 @@ and it is also already prepared for arabic and hebrew scripts (no such TS sample
 
 Important: telxcc will *never ever* be like Emacs; it is simple and specialized utility. Do you need another output format? Just transform current one. Is online/realtime processing over TCP/IP required? I suggest Node.js as a wrapper…
 
+**Unfortunately I am unable to provide you with free support. Please, do not ever ask me to assist you with source code modifications or to make a special build for you etc., if you use telxcc for your business (especially if you have not donated to its development). It is your job you are paid for.**
+
 
 ## 3rd party software known to be using telxcc
 
