@@ -1,7 +1,7 @@
 # telxcc
 [![Build Status](https://travis-ci.org/petrkutalek/telxcc.svg?branch=master)](https://travis-ci.org/petrkutalek/telxcc)
 [![Paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=5HT3XJC26V8SJ)
-
+[![Analytics](https://ga-beacon.appspot.com/UA-60042036-3/telxcc)](https://github.com/petrkutalek/telxcc)
 
 **NOTE: telxcc is no longer maintained. It is licensed under GPL: anyone can use it for free, anyone has the right to modify it unless the name "telxcc" is being used for further releases.**
 
