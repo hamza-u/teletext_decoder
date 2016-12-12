@@ -1,7 +1,7 @@
 # telxcc
 [![Build Status](https://travis-ci.org/petrkutalek/telxcc.svg?branch=master)](https://travis-ci.org/petrkutalek/telxcc)
 
-**NOTE: telxcc is no longer maintained. It is licensed under GPL: anyone can use it for free, anyone has the right to modify it unless the name "telxcc" is being used for further releases.**
+**NOTE: telxcc is very likely no longer maintained. It is licensed under GPL: anyone can use it for free, anyone has the right to modify it if she does not use the name "telxcc" for further releases. Please rename your clone after forking.**
 
 
 telxcc is utility extracting teletext Closed Captions from Transport Stream binary files (TS & M2TS) into SubRip text files (SRT).
