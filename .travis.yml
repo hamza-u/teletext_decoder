@@ -1,5 +1,6 @@
 language: c
 compiler:
+  - clang
   - gcc
 sudo: false
 script: make
@@ -10,5 +11,8 @@ notifications:
     on_success: always
     on_failure: always
 branches:
-  except:
-    - /^devel-.+$/
+  only:
+    - master
+    - /^devel.*$/
+    - /^feature.*$/
+    - /^hotfix.*$/
